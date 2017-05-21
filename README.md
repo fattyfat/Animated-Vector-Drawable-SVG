@@ -6,7 +6,7 @@ Animated Vector Drawable SVG
 ![Example1](gif1.gif)
 <br>
 ↓ <br>
-![Example1](gif2-1.gif)
+![Example1](gif2.gif)
 
 App download ↓
 https://drive.google.com/open?id=0B0csiWXavBDHcFlVTlJGQlFQOXM
