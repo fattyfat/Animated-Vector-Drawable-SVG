@@ -2,10 +2,10 @@
 Animated Vector Drawable SVG
 (修改自Android群英傳)
 
-↓ 雙手模式<br>
+↓ <br>
 ![Example1](gif1.gif)
 <br>
-↓ 右手單手模式<br>
+↓ <br>
 ![Example1](gif2.gif)
 
 App download ↓
