@@ -3,7 +3,7 @@ Animated Vector Drawable SVG
 (修改自Android群英傳)
 
 ↓ <br>
-![Example1](gif1-1.gif)
+![Example1](gif1.gif)
 <br>
 ↓ <br>
 ![Example1](gif2-1.gif)
